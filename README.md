@@ -28,7 +28,7 @@ Data Preprocessing
 
 Handle missing values
 Normalize/scale data
-Handle outliers (if necessary)
+Handled outliers 
 Exploratory Data Analysis (EDA)
 
 Visualize feature distributions
