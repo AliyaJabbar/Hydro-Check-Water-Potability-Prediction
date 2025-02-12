@@ -15,12 +15,14 @@ Organic Carbon – Organic matter in water
 Trihalomethanes (THMs) – Chemical byproducts from water disinfection
 Turbidity – Clarity of water
 Potability – Target variable (1 = Potable, 0 = Not potable)
+
 ⚙️ Technologies Used
 Python
 Pandas, NumPy – Data preprocessing
 Matplotlib, Seaborn – Data visualization
 Scikit-learn – Machine learning models
 Jupyter Notebook
+
 🏗️ Model Development
 Data Preprocessing
 
