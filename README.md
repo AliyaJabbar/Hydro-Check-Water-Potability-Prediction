@@ -90,6 +90,8 @@ To automate water quality classification and improve the decision-making process
 | Support Vector Machine | 51.56%                       | 54.00%    | 21.09% | 30.33%   | \~52    |
 
 ---
+# screenshot of Webpage Displayed through ngrok
+![App Screenshot](https://raw.githubusercontent.com/AliyaJabbar/Hydro-Check-Water-Potability-Prediction/main/water%20potaboility%20screen.PNG)
 
 ## 💼 Business Impact
 
